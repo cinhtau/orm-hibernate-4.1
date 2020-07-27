@@ -9,9 +9,8 @@ import javax.persistence.Persistence;
 
 abstract class JPAHibernateTest {
 
-
     JPAHibernateTest(){}
-    
+
     protected static EntityManagerFactory emf;
     protected static EntityManager em;
 
