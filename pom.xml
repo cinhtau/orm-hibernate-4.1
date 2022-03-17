@@ -24,7 +24,7 @@
         <hibernate-jpa.version>1.0.1.Final</hibernate-jpa.version>
         <hibernate-validator.version>4.1.0.Final</hibernate-validator.version>
         <hibernate.dialect>org.hibernate.dialect.Oracle10gDialect</hibernate.dialect>
-        <hibernate.version>4.1.1.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
     </properties>
 
     <dependencies>
