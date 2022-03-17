@@ -19,7 +19,7 @@
         <hamcrest.version>1.3</hamcrest.version>
         <mockito.version>1.10.19</mockito.version>
         <!-- persistence -->
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.1.210</h2.version>
         <!-- define legacy version -->
         <hibernate-jpa.version>1.0.1.Final</hibernate-jpa.version>
         <hibernate-validator.version>4.1.0.Final</hibernate-validator.version>
